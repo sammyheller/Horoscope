@@ -1,0 +1,51 @@
+
+
+h1 {
+    text-align: center;
+    color: cornflowerblue;
+    border: 10px darkgrey;
+    margin: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+h3 {
+    text-align: center;
+    color: cornflowerblue;
+}
+
+
+body {
+    background-color: violet;
+    font-family: Cambria;
+    text-align: center;
+}
+
+#sign {
+    text-align: center;
+    font-family: Cambria;
+    color: blueviolet;
+    font-size: 40px;
+    border: 10px darkgrey;
+    margin: 10px;
+
+}
+
+#horo {
+    text-align: center;
+    font-family: Cambria;
+    color: blueviolet;
+    font-size: 40px;
+    border: 10px white;
+    margin: 10px;
+}
+
+#birthday {
+    text-align: center;
+    font-family: Cambria;
+    color: white;
+    font-size:40px;
+}
